@@ -8,7 +8,7 @@ This is an application to manage bookmarks and share them with other users. The 
 
 ## Results
 
-![results](https://github.com/raikilon/bookmarks-manager/tree/master/public/imgs/links.png)
+![results](https://raw.githubusercontent.com/raikilon/bookmarks-manager/master/public/imgs/links.png)
 
-![results](https://github.com/raikilon/bookmarks-manager/tree/master/public/imgs/share.png)
+![results](https://raw.githubusercontent.com/raikilon/bookmarks-manager/master/public/imgs/share.png)
 
